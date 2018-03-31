@@ -1,11 +1,10 @@
-package com.androidtutz.anushka.memberapp;
+package com.androidtutz.navjot.memberapp;
 
 import java.util.ArrayList;
 
 /**
- * Created by K. A. ANUSHKA MADUSANKA on 1/23/2018.
+ * @author Navjot
  */
-
 public class MemberDataManager {
 
     private String memberStatus;

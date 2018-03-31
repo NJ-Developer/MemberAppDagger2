@@ -1,4 +1,4 @@
-package com.androidtutz.anushka.memberapp;
+package com.androidtutz.navjot.memberapp;
 
 import org.junit.Test;
 

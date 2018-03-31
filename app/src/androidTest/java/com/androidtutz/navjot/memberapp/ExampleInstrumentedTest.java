@@ -1,4 +1,4 @@
-package com.androidtutz.anushka.memberapp;
+package com.androidtutz.navjot.memberapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.androidtutz.anushka.memberapp", appContext.getPackageName());
+        assertEquals("com.androidtutz.navjot.memberapp", appContext.getPackageName());
     }
 }
